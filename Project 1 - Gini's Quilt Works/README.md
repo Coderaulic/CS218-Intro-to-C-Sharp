@@ -7,7 +7,7 @@ Date:&emsp;&emsp;&emsp;&emsp;
 Author:&emsp;&emsp;&emsp;
 Ryu Muthui<br>
 Description:&emsp;
-A simple GUI invoice form to place orders and calculate total costs.<br>
+A simple GUI invoice form to place orders and calculate total costs<br>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![1](https://cloud.githubusercontent.com/assets/10789046/24258501/3d887738-0fab-11e7-9746-b39b8145ec3e.jpg)<br>
