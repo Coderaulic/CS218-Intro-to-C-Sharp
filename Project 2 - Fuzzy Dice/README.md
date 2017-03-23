@@ -1,15 +1,15 @@
-# CS115_Lab0
+# CS218 Project 2 - Fuzzy Dice
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 115: Lab0 - Favorite Films Project<br>
+Edmonds Community College CS 218: Project 2 Fuzzy Dice Order Form<br>
 Date:&emsp;&emsp;&emsp;&emsp;
-October 25, 2012<br>
+11/15/2013<br>
 Author:&emsp;&emsp;&emsp;
 Ryu Muthui<br>
 Description:&emsp;
-A simple GUI implementation program that displays classmate's favorite films.<br>
+A simple GUI invoice order form to place orders from the Fuzzy Dice Company.<br>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![2](https://cloud.githubusercontent.com/assets/10789046/24237783/ebf23ecc-0f64-11e7-86e7-506770ebe33a.jpg)<br>
+![1_1](https://cloud.githubusercontent.com/assets/10789046/24258024/c08c9ab2-0fa9-11e7-86ad-c083b06fba38.jpg)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![3](https://cloud.githubusercontent.com/assets/10789046/24237786/edd65d7c-0f64-11e7-8f0b-2676e58c0d11.jpg)<br>
+![1_2](https://cloud.githubusercontent.com/assets/10789046/24258023/c08b6502-0fa9-11e7-9acd-806e3ae60f62.jpg)<br>
