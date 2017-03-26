@@ -1,7 +1,7 @@
-# CS218 Project 2 - Fuzzy Dice
+# Fuzzy Dice Order Form
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 218: Project 2 - Fuzzy Dice Order Form<br>
+Fuzzy Dice Order Form<br>
 Date:&emsp;&emsp;&emsp;&emsp;
 11/15/2013<br>
 Author:&emsp;&emsp;&emsp;
