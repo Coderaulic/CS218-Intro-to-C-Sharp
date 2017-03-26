@@ -1,4 +1,4 @@
-# CS218-Intro-to-C#
+# Intro-to-C#
 
 Projects created in Intro to C# course<br>
 
