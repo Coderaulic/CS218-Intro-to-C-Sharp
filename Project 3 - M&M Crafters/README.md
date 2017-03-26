@@ -1,7 +1,7 @@
-# CS218 Project 3 - M & M Crafters Payroll Accounting Systems
+# M & M Crafters Payroll Accounting Systems
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 218: Project 3 -  M & M Crafters Payroll Accounting Systems<br>
+M & M Crafters Payroll Accounting Systems<br>
 Date:&emsp;&emsp;&emsp;&emsp;
 12/02/2013<br>
 Author:&emsp;&emsp;&emsp;
