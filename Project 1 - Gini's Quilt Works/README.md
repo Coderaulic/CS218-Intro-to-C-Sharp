@@ -1,7 +1,7 @@
-# CS218 Project 1 - Gini's Quilt Works
+# Gini's Quilt Works
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 218: Project 1 - Gini's Quilt Works<br>
+Gini's Quilt Works<br>
 Date:&emsp;&emsp;&emsp;&emsp;
 10/16/2013<br>
 Author:&emsp;&emsp;&emsp;
